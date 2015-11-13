@@ -1,0 +1,20 @@
+{
+    "name": "digo-marked",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-marked",
+    "description": "digo 插件：使用 node-marked 编译 Markdown",
+    "keywords": [
+        "digo plugin",
+        "markdown",
+        "md"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "highlight.js": "latest",
+        "marked": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
